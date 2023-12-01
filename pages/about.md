@@ -16,5 +16,4 @@ credits: true
 
 This site is a digital collection about Japanese Patentees in Swedish record before World War II. The data is retrieved from [Swedish historical Patents](https://svenskahistoriskapatent.se/EN/).
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include pages/about_me.md %} 
