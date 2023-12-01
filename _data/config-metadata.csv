@@ -1,7 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
+patent_number,Swedish Patent ID,
+title_SE,Title in Swedish,
+title_JP,Priority patent in Japan,
 creator,Creator,
-date,Date Created,
+date,Application Date,
+patentee,Patentee,
+patentee2,Patentee 2,
+patentee3,Patentee 3,
+inventor,Inventor,
 description,Description,
 subject,Subjects,true
 location,Location
