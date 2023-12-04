@@ -4,7 +4,7 @@ layout: about
 permalink: /overview.html
 ---
 
-# Overview: Who Are the Patentees and Why They Came to Sweden
+# Overview: Who Are the Patentees and Why They Come to Sweden
 
 ## Background
 After the Meiji Restoration, Japan started to explore its way of modernization and industrialization. The country established its patent system in 1885, in order to protect and promote domestic innovation. Foreigners were excluded from the system and not allowed to register their inventions until 1899, when Japan acceded to the Paris Convention. Joining the international agreement not only opened the door for foreign patentees, but also helps Japanese creators to protect their intellectual works globally. Since then, Japanese inventors have been engaged in patenting activity in various countries.
