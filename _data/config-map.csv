@@ -1,5 +1,5 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
+date,Application Date,true
+patentee,Patentee,true
+subject,Class,true
 location,Location,true
