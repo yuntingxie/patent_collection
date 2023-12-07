@@ -15,7 +15,7 @@ credits: true
 ## About the Collection
 This site is a digital collection about Japanese Patentees in Swedish record before World War II. The data is retrieved from [Swedish historical Patents](https://svenskahistoriskapatent.se/EN/). The collection started as part of my internship supervised by Professor Fredrik Tell and Dr Matti La Mela.
 
-What I try to present here, is an overview of Japanese patenting activity in Sweden: who the patents are, what they have invented and why they patented in Sweden. Of course, more questions is to ask -- what a patent means for them, both in practical and ontological sense? What about a patent abroad? A patent in Sweden? For a history all the entangled people, objects and ideas, patent documents is an interesting point to start.
+What I try to present here, is an overview of Japanese patenting activity in Sweden: who the patentees are, what they have invented and why they patented in Sweden. Of course, more questions is to ask -- what a patent means for them, both in practical and ontological sense? What about a patent abroad? A patent in Sweden? For a history all the entangled people, objects and ideas, patent documents is an interesting point to start.
 
 Guided tour is provided for those who would like to know the answer of questions above. You can go through the "Overview" pages first. And check the map and timeline. Otherwise, feel free to just walk around and navigate the collection as you want. If you are interested in a specific patent, original document and registration record are available in [Swedish historical Patents](https://svenskahistoriskapatent.se/EN/). The easiest way to get the document at the moment is to search with the "Patent ID".
 
