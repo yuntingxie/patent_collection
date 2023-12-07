@@ -11,7 +11,6 @@ patentee3,Patentee 3,
 inventor,Inventor,
 class,Patent Class
 description,Description,
-subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
