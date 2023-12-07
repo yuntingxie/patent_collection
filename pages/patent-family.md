@@ -1,4 +1,4 @@
----
+![image](https://github.com/yuntingxie/patent_collection/assets/152607916/d6fc9584-d960-4c91-91bd-fd1fe0b1775d)---
 title: Patent Family
 layout: about
 permalink: /patentfamily.html
@@ -35,7 +35,8 @@ The rather insignificant intervals per country can be caused by the distinction 
 
 ### Creating Patent Family
 Since a reliable contact person would be crucial to build the patent family, oversea experience in related field is often the key to equip patentees to participate in multinational patenting activity. The story of an incinerator patent (No.69952) shows how the various personal connections work in the process. Alexander Alexanderovitch Golovtchikoff, an engineer living in Russian far east, invented a multifunctional incinerator for home use. The incinerator had two chambers to burn solids and evaporate the liquid waste respectively. It had been patent and commercialized in Russian Far East before 1916.  Yet the first patent aboard only appeared after a decade when he met his co-patentee Shun Ichi Ono. 
-{% include feature/image.html objectid ="patent26;https://files.vgd.ru/26412/uF3M0WL00K4VbaCl9ELB0EUuD6f52eId/screenshot_41klozet.png" caption="Patent No. 69952 Ugn för förbränning av fast avfall och indunstning och förbränning av flytande avfall;An advertisement of the incinerator, Russian Patent No. 25733"%}
+{% include feature/image.html objectid="patent26" width="50" caption="Patent No. 69952 Ugn för förbränning av fast avfall och indunstning och förbränning av flytande avfall"%}
+{% include feature/image.html objectid="https://files.vgd.ru/26412/uF3M0WL00K4VbaCl9ELB0EUuD6f52eId/screenshot_41klozet.png" width="50" caption="An advertisement of the incinerator, Russian Patent No. 25733"%}
 (The appearance of these two incinerators are not exactly the same, yet their designs are similar -- two separate chambers for different use.)
 
 
