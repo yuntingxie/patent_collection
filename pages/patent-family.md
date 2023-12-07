@@ -1,4 +1,4 @@
-![image](https://github.com/yuntingxie/patent_collection/assets/152607916/d6fc9584-d960-4c91-91bd-fd1fe0b1775d)---
+---
 title: Patent Family
 layout: about
 permalink: /patentfamily.html
