@@ -3,6 +3,7 @@ title: Overview
 layout: about
 permalink: /overview.html
 ---
+
 # Who Are the Patentees and Why They Come to Sweden
 ## Patent and Patentee
 ### Background
@@ -34,7 +35,7 @@ The leading role Japanese scientists and engineers played in the patenting aboar
 In 1930s, patents applied by multinational corporations has appeared. Two different types can be recognized: foreign inventors working for Japanese international company (No. 72816, the inventor is a German engineer working for Fuji and Siemens), and Japanese engineer in foreign firms (e.g. No. 93952). This indicates an openness of Japanese economy and increasing competence of its talents.
 
 ### Patent Agent
-As the 1885 Swedish Patent Law states, all the applicators living outside Sweden must have a Swedish citizen as their agent (See Fredrik & Andersson, 2016) . Swedish patent agency had been active in the whole twentieth century. For Japanese inventors, a local intermediator is required also because they seldom have the language skill to provide application documents in Swedish. In addition, the agent is more familiar with the local regulation and assists them to handle practical issues on time despite long distance, such as the yearly renewal payment.
+As the 1885 Swedish Patent Law states, all the applicators living outside Sweden must have a Swedish citizen as their agent (See Tell & Andersson, 2016) . Swedish patent agency had been active in the whole twentieth century. For Japanese inventors, a local intermediator is required also because they seldom have the language skill to provide application documents in Swedish. In addition, the agent is more familiar with the local regulation and assists them to handle practical issues on time despite long distance, such as the yearly renewal payment.
 
 Several different agents have their own Japanese customers. The top three agents with highest market share are Anders Wilhelm Anderson, Axel Emmanuel Hasselrot and Harry Fredrik Albihn. Anderson is an engineer who founded the patent agency AWA in 1897. He was mainly active in 1920s and had most clients at that decade. Meanwhile, Hasselrot is a lawyer who established his own agency in 1924 after working for Swedish patent office (PRV) for more than ten years. He became the core of Japanese patentees local network in 1930s. And Albihn was employed at one of the leading patent office, Theodor Wawrinsky's since 1903. He was promoted as the co-owner and finally became the sole owner of the agency in 1920 (Andersson 2016). He was also involved in many Japanese inventors' patent application.
 
