@@ -19,13 +19,16 @@ What I try to present here, is an overview of Japanese patenting activity in Swe
 
 Guided tour is provided for those who would like to know the answer of questions above. You can go through the "Overview" pages first. And check the map and timeline. Otherwise, feel free to just walk around and navigate the collection as you want. If you are interested in a specific patent, original document and registration record are available in [Swedish historical Patents](https://svenskahistoriskapatent.se/EN/). The easiest way to get the document at the moment is to search with the "Patent ID".
 
-As you might have noticed, I am still modifying this collection and some updates would be available soon. What is in my plan: i) a more informative timeline
-ii) patent family maps
-iii) biographical information for each patentee
+As you might have noticed, I am still modifying this collection and some updates would be available soon. What is in my plan: 
+
+ - a more informative timeline 
+ - patent family maps
+ - biographical information for each patentee
+
 I also hope to reconstruct the narrative here in a more contextualized way, so please go back and check the cool stuff in future :)
 
 I would be very happy if you find this online exhibition interesting! If you have any questions or comments, feel free to contact me via email (yunting.xie.tina [at] gmail.com).
 
 ## About Me
 My name is Yunting Xie. 
-I am a master student in digital humanities at Uppsala, with an interest of anything about global past, digital history and knowledge production.
+I am a master student in digital humanities at Uppsala, interested in anything about global past, digital history and knowledge production.
