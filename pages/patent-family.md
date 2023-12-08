@@ -47,4 +47,10 @@ They patented the invention in several countries where the household waste dispo
 
 Interestingly, the multinational patenting activity was supported by Ono family's extensive oversea connections. Shun Ichi Ono had his connections aboard since his undergraduate. His father, [Eijiro Ono](https://jahis.law.nagoya-u.ac.jp/who/docs/who4-2656), lived in western countries for decades as a successful banker. He was promoted as the vice president of Franco-Japanese bank in 1923. While it is unlikely that he had directly involved in the patenting affair, the family's international background and network generally played a role in protecting and promoting the invention in global scale.
 
+References:
+Andersson, D.E. and La Mela, M. (2020) ‘Nordic networks: patent agents and the business of technology intermediation in Sweden and Finland, 1860–1910’, _Scandinavian Economic History Review_, 68(1), pp. 45–65. Available at: [https://doi.org/10.1080/03585522.2019.1667425](https://doi.org/10.1080/03585522.2019.1667425).
+Andersson, D. E., La Mela, M., & Tell, F. (2023) ‘Family First: Constructing Patent Families from Historical Patent Data’, in. _Patents, Innovation, Technological Change in History (PITCH) Conference_, University of Maryland, Baltimore County.
+Mizoiri, S. (2012) ‘The Garbage War between Shibuya and Meguro Wards in Tokyo Prefecture, from the End of Taisho to the Early Stages of Showa’, _Journal of the Japan Society of Material Cycles and Waste Management_, 23(3), pp. 125–137. Available at: [https://doi.org/10.3985/jjsmcwm.1111203](https://doi.org/10.3985/jjsmcwm.1111203).
+The Biographical information is retrieved from JINJI KOSHINROKU (who's who) Database, digitized by Nagoya University: https://jahis.law.nagoya-u.ac.jp/who/search/about.
+
 > Written with [StackEdit](https://stackedit.io/).
