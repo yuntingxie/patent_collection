@@ -3,7 +3,7 @@ title: References
 layout: about
 permalink: /reference.html
 ---
-References:
+# References:
 ### Overview
 Andersson, D.E. and Tell, F. (2016) ‘Patent agencies and the emerging market for patenting services in Sweden, 1885-1914’, _Enterprises et Histoire_, (82), pp. 11–31.
 
