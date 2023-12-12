@@ -1,8 +1,7 @@
-
 ---
 title: References
 layout: about
-permalink: /references.html
+permalink: /reference.html
 ---
 References:
 ### Overview
