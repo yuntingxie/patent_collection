@@ -16,7 +16,7 @@ This site is a digital collection about Japanese Patentees in Swedish record bef
 
 What I present here, is an overview of Japanese patenting activity in Sweden: who the patents are, what they have invented and why they patented in Sweden. Of course, more questions is to ask -- what a patent means for them, both in practical and ontological sense? What about a patent abroad? A patent in Sweden? For a history all the entangled people, objects and ideas, a patent documents is an interesting point to start.
 
-A guided tour is provided for those who would like to know the answer of questions above. You can go through the "Overview" pages first. And check the map and timeline. Otherwise, feel free to just walk around and navigate the collection as you want. If you are interested in a specific patent, original document and registration record are available in [Swedish historical Patents](https://svenskahistoriskapatent.se/EN/). The easiest way to get the document at the moment is to search with the "Patent ID".
+A guided tour is provided for those who would like to know the answer of questions above. You can go through the "Overview" pages first. And check the map and timeline. Otherwise, feel free to just walk around and navigate the collection as you want. If you are interested in a specific patent, original document and registration record are available in [Swedish Historical Patents](https://svenskahistoriskapatent.se/EN/). The easiest way to get the document at the moment is to search with the "Patent ID".
 
 As you might have noticed, I am still modifying this collection and some updates would be available soon. What is in my plan: 
 
